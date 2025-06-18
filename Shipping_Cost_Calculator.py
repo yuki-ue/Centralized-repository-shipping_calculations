@@ -1,3 +1,5 @@
+ # ここに yuki-ue による新しい更新があります
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
