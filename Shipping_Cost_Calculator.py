@@ -1,4 +1,5 @@
  # ここに yuki-ue による新しい更新があります
+# Here is another update by yuki-ue
 
 # Shipping Cost Calculator
 
